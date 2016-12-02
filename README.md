@@ -1,5 +1,5 @@
 # About
-This repository contains some usefull scripts for spacewalk maintenance.
+This repository contains some useful scripts for spacewalk maintenance.
 
 ## Configuration
 You need at least a user with API access.
