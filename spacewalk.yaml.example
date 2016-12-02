@@ -1,0 +1,4 @@
+spacewalk_api: 'https://spacewalk.example.com/rpc/api'
+spacewalk_ssl_verify: False
+spacewalk_user: 'admin'
+spacewalk_password: 'passw0rd'
